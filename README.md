@@ -35,7 +35,7 @@ Siga os passos abaixo para rodar o projeto localmente:
    npm start
    ```
 
-5.**Acesse o navegador:**
+5. **Acesse o navegador:**
   O projeto estará disponível em: http://localhost:3000
 
 
