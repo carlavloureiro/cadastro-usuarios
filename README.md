@@ -10,21 +10,3 @@ A tela de login permite que o usuário insira seu **e-mail** e **senha** para ac
 
 ---
 
-## Funcionalidades
-
-- Formulário com campos para **e-mail** e **senha**
-- Validação básica dos campos (exemplo: campos obrigatórios, formato de e-mail)
-- Botão de login estilizado com Bootstrap
-- Responsividade para diferentes tamanhos de tela (desktop, tablet e mobile)
-- Feedback visual para inputs com erros (opcional, dependendo da implementação)
-- Estrutura React modular para fácil manutenção e extensão
-
----
-
-## Tecnologias usadas
-
-- [React](https://reactjs.org/)
-- [Bootstrap 5](https://getbootstrap.com/)
-- [React-Bootstrap](https://react-bootstrap.github.io/) (se aplicável)
-
----
